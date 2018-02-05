@@ -18,7 +18,7 @@ If you want to update the application then you can `PUT` to `https://discordapp.
 # Run
 
 - `pip install -r requirements.txt`
-- `OAUTH2_CLIENT_ID=152638009253036032 OAUTH2_CLIENT_SECRET=iGyqGTVcmk-ccjmFJU3cpwd2YKhFhQKb python app.py`
+- `OAUTH2_CLIENT_ID=294550265938313226 OAUTH2_CLIENT_SECRET=iGyqGTVcmk-ccjmFJU3cpwd2YKhFhQKb python app.py`
 - `open http://localhost:5000`
 
 # Scopes
