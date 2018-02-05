@@ -4,11 +4,11 @@ Head over to our [developer site](https://discordapp.com/developers/applications
 
 ```json
 {
-  "id": "152638009253036032",
-  "name": "OAuth2 Test",
+  "id": "294550265938313226",
+  "name": "BOTvonSKILL",
   "description": "",
   "icon": null,
-  "secret": "p6KNMamrU5OVWtZiFe2kSkhx3Amxm0xB",
+  "secret": "iGyqGTVcmk-ccjmFJU3cpwd2YKhFhQKb",
   "redirect_uris": ["http://localhost:5000/callback"],
 }
 ```
@@ -18,7 +18,7 @@ If you want to update the application then you can `PUT` to `https://discordapp.
 # Run
 
 - `pip install -r requirements.txt`
-- `OAUTH2_CLIENT_ID=152638009253036032 OAUTH2_CLIENT_SECRET=p6KNMamrU5OVWtZiFe2kSkhx3Amxm0xB python app.py`
+- `OAUTH2_CLIENT_ID=152638009253036032 OAUTH2_CLIENT_SECRET=iGyqGTVcmk-ccjmFJU3cpwd2YKhFhQKb python app.py`
 - `open http://localhost:5000`
 
 # Scopes
